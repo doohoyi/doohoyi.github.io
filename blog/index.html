@@ -1,0 +1,11 @@
+---
+layout: default
+title: ()
+---
+<p>{{ page.title }}</p>
+</br>
+<ul>
+  {% for post in site.posts %}
+  <li><span>{{ post.date | date: "%m / %d / %Y" }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+  {% endfor %}
+</ul>
