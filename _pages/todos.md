@@ -1,6 +1,7 @@
 ---
 title: '*'
 layout: default
+permalink: /todos/
 ---
 
 **t\*dos**
@@ -25,7 +26,6 @@ layout: default
 >
 > * learn!
 >
->   * jekyll @ github.pages 인강보기.
 >   * javascript (+ html/css)
 >   * linux-audio, supercollider
 >   * 사운드 디자인에 대한 공부. andy farnell 읽기.
@@ -33,20 +33,17 @@ layout: default
 >
 > * issues
 >
->   * 인숙씨를 통해서 어떤 일?
 >   * 공연 3건 (박동희, 안세원, 현박..)
 >   * 원정 맥북의 키보드 교체. 하드도 추가 설치.
->   * 큰병원가서 치과+신경과 합심해서 수술받을 수 있는 곳으로 가야 한단다. 돈도 마니 깨진단다. 아님, 엄마추천 서울치과?
 >   * 컴퓨터 다시 잘 만들고 싶다. archlinux 말구.. debian 이라든지..
 >   * 데이터 정리
->   * 국민대 수업 나갈 일 / PaTi 수업
+>   * 국민대 수업 나갈 일
 >   * 토리노 갈 일 (지현/다비드) / 칠레 갈 일 (tsonami fest.)
 >   * 동희씨가 알려준. emacs system-name별로 다르게 설정하는 거. 적용해보기.
 >   * 뉴마트 포럼? --> 메일링 대신에, rss-feed 구독?
 >   * 작업실의 해커 스페이스화? (오픈?)
 >   * 온수 매트 되팔기?
 >   * 담배갑 3d 프린트?
->   * 머리깍기 도구 구입? (바리깡, 가위)
 >   * 작업note의 단행본 만들기. '다밴의 작업일기' 출판 프로젝트?
 >   * 소리진 작업물 - 게임북 소리진.. 앱ZINE?
 >   * puredata 포럼?

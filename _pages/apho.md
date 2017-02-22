@@ -1,6 +1,7 @@
 ---
 title: '#'
 layout: default
+permalink: /apho/
 ---
 
 **ap#orism**
@@ -10,6 +11,10 @@ layout: default
 *An aphorism (from Greek ἀφορισμός aphorismos, "delimitation") is a terse saying, expressing a general truth, principle, or astute observation, and spoken or written in a laconic and memorable form.[1] Aphorism literally means a "distinction" or "definition".*
 
 *아포리즘이란 것은 일종의 읖조림인데.. 그것이 많은 것을 함축적으로 담아내거나, 불러일으키기 때문에 소중하고, 절묘하고, 정교한 것이다. 즉, 문맥에서 떼어져 나와도 될 가능성이 있다. 물론 문맥을 제거하면, 도저히 이해가 안되는 아포리라는 것도 있지만. 그것은 오히려, 그 아포리들을 잘 간직하지 않았다. 즉, 다시 보지 않았다라는 것이다. 니체가 아포리로 책을 낸 것은 이런 것이 아닐까. 자기 자신의 아포리들을 모은 기록물을 다시 읽어야만 했다. 계보학. 엮어내기 위해서, 그것을 연습도 하고, 그것의 가능성도 보고. 나도 그런 식으로 해봐야 하는게 아닐까. 과감하게 문맥을 버리고, 나를 믿고, 아포리가 걸러지면서, 어느 순간 스냅샷을 한번 남기는 정도. 스냅샷이라는 것이 좋다. 그러나, 그 스냅샷도 버려지는 것이 옳다. 아니, 그 무슨 나의 생산물이라고 하더라도, 그것이 오로지 나의 자기만족과 나의 자아성장을 위한 것이었다면, 그것은 만족과 성장을 이룬 후에 삭제해야 한다. 그냥 임시적인 것들이다. 오히려 진정으로 의미있는 것은 그것이 누군가를 위한 스냅샷이거나, 누군가에 '의한' 스냅샷이거나, 어떤 이들의 공동의 스냅샷일 경우에 의미가 더 깊어진다.*
+
+---
+
+'아포리' => '시적 요약' (poetic summary)
 
 ---
 

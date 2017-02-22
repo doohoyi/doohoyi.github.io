@@ -1,6 +1,7 @@
 ---
 title: ';'
 layout: default
+permalink: /sh/
 ---
 
 **shell;**

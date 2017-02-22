@@ -1,6 +1,7 @@
 ---
 title: '/'
 layout: default
+permalink: /poe/
 ---
 
 **poe/ry, /yrics**
